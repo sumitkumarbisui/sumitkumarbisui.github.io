@@ -9,7 +9,7 @@ Text file of my public GPG key is [here🔐](/files/sum.asc). cv25519 2026-07-21
 
 To import my key, run the following command one your fav Terminal:
 
-`curl 'https://sumone.xyz/files/sum.asc' | gpg --import`
+`curl 'https://sumitkumarbisui.in/files/sum.asc' | gpg --import`
 
 🧬 Fingerprint is:
 
