@@ -1,10 +1,10 @@
 ---
 title: "Contact"
-date: 2026-06-17
+date: 2026-07-21
 type: "page"
 showTableOfContents: true
 ---
 ## Email
 
-Email address: `sum [at] sumone [dot] xyz`
+Email address: `sumit [at] sumitkumarbisui [dot] in`
 
