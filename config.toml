@@ -1,4 +1,4 @@
-baseURL = "https://sumone.xyz"
+baseURL = "https://sumitkumarbisui.in"
 defaultContentLanguage = "en"
 languageCode = "en"
 
@@ -22,8 +22,8 @@ enableRobotsTXT = true
     weight = 20
   [[menu.main]]
     pageRef="about"
-    name = 'About'
-    url = '/about/'
+    name = 'Whoami'
+    url = '/whoami/'
     weight = 30
   [[menu.main]]
     pageRef="tags"
@@ -40,11 +40,6 @@ enableRobotsTXT = true
     name = "GPG"
     url = "/gpg/"
     weight = 60
-  [[menu.main]]
-    pageRef = "social"
-    name = "Social"
-    url = "/social"
-    weight = 61
   [[menu.main]]
     pre = "<span data-feather='rss'></span>"
     url = "/posts/index.xml"
@@ -68,7 +63,7 @@ enableRobotsTXT = true
   customHeadHTML = "<link rel=stylesheet href=\"/css/main.css\"></link>"
 
   # Keywords relevant for SEO
-  metaKeywords = ["blog", "gokarna", "hugo"]
+  metaKeywords = ["blog", "gokarna", "hugo","sumitkumarbisui","sumitkumar","sum","sumone"]
 
   # If you want to display posts on the homepage, the options are
   # "popular" (order posts by weight), "recent" (order posts by date)
@@ -80,10 +75,10 @@ enableRobotsTXT = true
 
 [params.author]
 name = "Sumit Kumar"
-contact = "https://sumone.xyz/contact"
+contact = "https://summitkumarbisui/contact"
 
 socialIcons = [
-    {name = "email", url = "mailto:sum@sumone.xyz"},
+    {name = "email", url = "mailto:sumit@sumitkumarbisui"},
     {name = "codeberg", url = "https://codeberg.org/sum"}
   ]
 
