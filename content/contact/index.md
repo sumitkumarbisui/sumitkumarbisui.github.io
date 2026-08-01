@@ -5,6 +5,7 @@ type: "page"
 showTableOfContents: true
 ---
 ## Email
-
-Email address: `sumit [at] sumitkumarbisui [dot] in`
-
+[sumit@sumitkumarbisui.in](mailto://sumit@sumitkumarbisui.in) 
+ 
+## Linkedin
+[Linkedin](https://Linkedin.com/in/sumitkumarbisui) 
