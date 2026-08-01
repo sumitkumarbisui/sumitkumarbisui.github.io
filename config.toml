@@ -47,7 +47,7 @@ enableRobotsTXT = true
 
 [params]
   # URL for the avatar on homepage
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/images/avater.gif"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
   avatarSize = ""

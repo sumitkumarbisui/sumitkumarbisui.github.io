@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sum&#39;s Blog</title>
-    <link>https://sumitkumarbisui.in/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Sum&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sumitkumarbisui.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://sumitkumarbisui.in/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://sumitkumarbisui.in/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h2 id=&#34;email&#34;&gt;Email&lt;/h2&gt;
 &lt;p&gt;Email address: &lt;code&gt;sumit [at] sumitkumarbisui [dot] in&lt;/code&gt;&lt;/p&gt;
 </description>
@@ -20,12 +20,12 @@
     
     <item>
       <title>GPG Keys</title>
-      <link>https://sumitkumarbisui.in/gpg/</link>
+      <link>http://localhost:1313/gpg/</link>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://sumitkumarbisui.in/gpg/</guid>
+      <guid>http://localhost:1313/gpg/</guid>
       <description>&lt;p&gt;If you don&amp;rsquo;t know what gpg key is, Check out an &lt;a href=&#34;https://wiki.archlinux.org/title/GnuPG#Create_a_key_pair&#34;&gt;introduction to gpg🛡️&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Text file of my public GPG key is &lt;a href=&#34;https://sumitkumarbisui.in/files/sum.asc&#34;&gt;here🔐&lt;/a&gt;. cv25519 2026-07-21&lt;/p&gt;
+&lt;p&gt;Text file of my public GPG key is &lt;a href=&#34;http://localhost:1313/files/sum.asc&#34;&gt;here🔐&lt;/a&gt;. cv25519 2026-07-21&lt;/p&gt;
 &lt;p&gt;To import my key, run the following command one your fav Terminal:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;curl &#39;https://sumitkumarbisui.in/files/sum.asc&#39; | gpg --import&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;🧬 Fingerprint is:&lt;/p&gt;
@@ -35,11 +35,11 @@
     
     <item>
       <title>$whoami</title>
-      <link>https://sumitkumarbisui.in/whoami/</link>
+      <link>http://localhost:1313/whoami/</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://sumitkumarbisui.in/whoami/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sumitkumarbisui.in/images/anime-wave.gif&#34; alt=&#34;alt text&#34;&gt;
+      <guid>http://localhost:1313/whoami/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/anime-wave.gif&#34; alt=&#34;alt text&#34;&gt;
 Hello, I am &lt;strong&gt;sumit&lt;/strong&gt; from India(West Bengal). I share my stories and ideas here. I hope that keeps you engaged and entertained.&lt;/p&gt;
 &lt;p&gt;BTW This website is the only way to &lt;em&gt;SPY&lt;/em&gt; on Me. Because you can&amp;rsquo;t find me on any social media sites. yeah that doesn&amp;rsquo;t mean i am an &lt;strong&gt;Anti social&lt;/strong&gt; or Social media is very &lt;strong&gt;bad&lt;/strong&gt; thing.&lt;/p&gt;
 &lt;h3 id=&#34;this-website-is-not-meant-for-hosting-sponsored-posts-or-ads-note-that-all-such-requests-will-be-ignored&#34;&gt;This website is not meant for hosting sponsored posts or ads. Note that all such requests will be ignored.&lt;/h3&gt;
@@ -48,19 +48,19 @@ Hello, I am &lt;strong&gt;sumit&lt;/strong&gt; from India(West Bengal). I share 
     
     <item>
       <title>More</title>
-      <link>https://sumitkumarbisui.in/more/</link>
+      <link>http://localhost:1313/more/</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://sumitkumarbisui.in/more/</guid>
+      <guid>http://localhost:1313/more/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sumitkumarbisui.in/social&#34;&gt;My social profiles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/social&#34;&gt;My social profiles&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sumitkumarbisui.in/free-software&#34;&gt;Free Software&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/free-software&#34;&gt;Free Software&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://sumitkumarbisui.in/books&#34;&gt;Books&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/books&#34;&gt;Books&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -68,10 +68,10 @@ Hello, I am &lt;strong&gt;sumit&lt;/strong&gt; from India(West Bengal). I share 
     
     <item>
       <title>My Online Profiles</title>
-      <link>https://sumitkumarbisui.in/social/</link>
+      <link>http://localhost:1313/social/</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://sumitkumarbisui.in/social/</guid>
+      <guid>http://localhost:1313/social/</guid>
       <description>&lt;p&gt;List of my online profiles&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -86,19 +86,19 @@ Hello, I am &lt;strong&gt;sumit&lt;/strong&gt; from India(West Bengal). I share 
     
     <item>
       <title>Quotes from the Books I read</title>
-      <link>https://sumitkumarbisui.in/book-quotes/</link>
+      <link>http://localhost:1313/book-quotes/</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://sumitkumarbisui.in/book-quotes/</guid>
+      <guid>http://localhost:1313/book-quotes/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://sumitkumarbisui.in/posts/whoami/</link>
+      <link>http://localhost:1313/posts/whoami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sumitkumarbisui.in/posts/whoami/</guid>
+      <guid>http://localhost:1313/posts/whoami/</guid>
       <description>&lt;p&gt;dfadfddfaf&lt;/p&gt;
 </description>
     </item>
