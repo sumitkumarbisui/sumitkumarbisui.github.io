@@ -8,4 +8,4 @@ showTableOfContents: true
 [sumit@sumitkumarbisui.in](mailto://sumit@sumitkumarbisui.in) 
  
 ## Linkedin
-[Linkedin](https://Linkedin.com/in/sumitkumarbisui) 
+[sumit Kumar Bisui](https://Linkedin.com/in/sumitkumarbisui) 
