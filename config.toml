@@ -2,7 +2,7 @@ baseURL = "https://sumitkumarbisui.in"
 defaultContentLanguage = "en"
 languageCode = "en"
 
-title = "Sum's Blog"
+title = "Sumit's Blog"
 
 theme = "gokarna"
 
